@@ -1,0 +1,2 @@
+# kickstarter_data
+This is a group project that I worked on that dealt with analyzing a Kaggle dataset of more than 300,000 Kickstarter projects. My group is interested in analyzing the success of Kickstarter projects to educate the Kickstarter project developers on what makes for a successful Kickstarter in order to help content creators improve their approach to creating new and successful products/services.
